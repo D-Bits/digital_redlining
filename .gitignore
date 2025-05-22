@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 
 ### Custom ignores ###
+exp.ipynb
