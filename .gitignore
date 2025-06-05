@@ -175,3 +175,5 @@ cython_debug/
 
 ### Custom ignores ###
 exp.ipynb
+logs/dag_processor/latest
+*Zone.Identifier
