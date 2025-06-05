@@ -93,7 +93,7 @@ services:
     env_file:
       - ".env"
     volumes:
-      - postgres-db-volume:/var/lib/postgresql/data
+      - redlining-volume:/var/lib/postgresql/data
     healthcheck:
       test: ["CMD", "pg_isready", "-U", "airflow"]
       interval: 10s
@@ -332,4 +332,4 @@ services:
         condition: service_completed_successfully
 
 volumes:
-  postgres-db-volume:
+  redlining-volume:
