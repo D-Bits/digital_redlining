@@ -12,7 +12,7 @@ import glob
 def fixed_etl():
 
     @task()
-    def extract():
+    def extract() -> dict:
         
         # Get all CSV file paths from the directory
         csv_files = glob.glob('data/fcc/fixed/*.csv')
@@ -25,12 +25,23 @@ def fixed_etl():
 
 
     @task()
-    def transform(df_dict: Dict):
+    def transform(df_dict: dict) -> dict:
 
         df = pd.DataFrame(df_dict)
+        df_dict = df.to_dict(orient='records')
+
+        return df_dict
         
+
+    @task()
+    def load(df_dict: dict):
+
+        # Here you would typically load the DataFrame to a database or data warehouse
+        # For demonstration, we will just print the DataFrame shape
+        print(f"Data loaded with shape: {df.shape}")    
 
     extracted_data = extract()
     transformed_data = transform(extracted_data)
+    
 
 fixed_etl()
