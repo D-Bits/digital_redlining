@@ -1,0 +1,991 @@
+area_data_type,geography_type,geography_id,geography_desc,geography_desc_full,total_units,biz_res,technology,speed_02_02,speed_10_1,speed_25_3,speed_100_20,speed_250_25,speed_1000_100
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.328887329,0.328887329
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,All Wired,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Any Terrestrial,0.871533872,0.871533872,0.871533872,0.795015795,0.328887329,0.328887329
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,All Wired and Licensed Fixed Wireless,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Copper,0.000000000,0,0,0,0,0
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Copper,0.000000000,0,0,0,0,0
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Cable/Fiber,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Cable,0.097578098,0.097578098,0.097578098,0.097578098,0.097578098,0.097578098
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Fiber,0.383994384,0.383994384,0.383994384,0.383994384,0.383994384,0.383994384
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Fiber,0.295191295,0.295191295,0.295191295,0.295191295,0.295191295,0.295191295
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,All Fixed Wireless,0.743418743,0.743418743,0.743418743,0.663039663,0,0.000000000
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,All Fixed Wireless,0.743418743,0.743418743,0.743418743,0.663039663,0.000000000,0
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Unlicensed Fixed Wireless,0.743418743,0.743418743,0.743418743,0.663039663,0,0.000000000
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Unlicensed Fixed Wireless,0.743418743,0.743418743,0.743418743,0.663039663,0,0
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Licensed Fixed Wireless,0.000000000,0,0,0,0,0
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Other,0,0,0,0,0.000000000,0
+Total,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Other,0,0,0,0.000000000,0,0
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Copper,0,0,0,0,0.000000000,0
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Copper,0,0,0.000000000,0,0,0
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Cable,0.138392857,0.138392857,0.138392857,0.138392857,0.138392857,0.138392857
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,All Fixed Wireless,0.596726190,0.596726190,0.596726190,0.590773810,0,0
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,All Fixed Wireless,0.596726190,0.596726190,0.596726190,0.590773810,0,0
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Unlicensed Fixed Wireless,0.596726190,0.596726190,0.596726190,0.590773810,0,0.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Unlicensed Fixed Wireless,0.596726190,0.596726190,0.596726190,0.590773810,0,0.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Other,0,0,0,0,0,0.000000000
+Total,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Other,0.000000000,0,0,0,0,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.775173611,0.775173611
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,All Wired,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Any Terrestrial,0.960937500,0.960937500,0.960937500,0.932291667,0.775173611,0.775173611
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,All Wired and Licensed Fixed Wireless,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Copper,0,0,0,0,0.000000000,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Copper,0,0,0,0.000000000,0,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Cable/Fiber,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Cable,0.999131944,0.999131944,0.999131944,0.999131944,0.999131944,0.999131944
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Cable,0.039062500,0.039062500,0.039062500,0.039062500,0.039062500,0.039062500
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Fiber,0.776909722,0.776909722,0.776909722,0.776909722,0.776909722,0.776909722
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Fiber,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,All Fixed Wireless,0.702256944,0.702256944,0.702256944,0.632812500,0.000000000,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,All Fixed Wireless,0.702256944,0.702256944,0.702256944,0.632812500,0,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Unlicensed Fixed Wireless,0.702256944,0.702256944,0.702256944,0.632812500,0,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Unlicensed Fixed Wireless,0.702256944,0.702256944,0.702256944,0.632812500,0,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Other,0,0,0,0.000000000,0,0
+Total,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Other,0,0,0,0.000000000,0,0
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.175604627,0.175604627
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,All Wired,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Any Terrestrial,0.618296530,0.618296530,0.618296530,0.601472135,0.175604627,0.175604627
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,All Wired and Licensed Fixed Wireless,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Copper,0,0,0,0,0,0.000000000
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Copper,0.000000000,0,0,0,0,0
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Cable/Fiber,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Cable,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Fiber,0.202944269,0.202944269,0.202944269,0.202944269,0.202944269,0.202944269
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Fiber,0.114616193,0.114616193,0.114616193,0.114616193,0.114616193,0.114616193
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0.000000000,0,0
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0.000000000,0,0
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,All Fixed Wireless,0.476340694,0.476340694,0.470031546,0.435331230,0,0.000000000
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,All Fixed Wireless,0.470031546,0.470031546,0.470031546,0.435331230,0.000000000,0
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Unlicensed Fixed Wireless,0.476340694,0.476340694,0.470031546,0.435331230,0,0.000000000
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Unlicensed Fixed Wireless,0.470031546,0.470031546,0.470031546,0.435331230,0,0.000000000
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Licensed Fixed Wireless,0,0,0.000000000,0,0,0
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Other,0.000000000,0,0,0,0,0
+Total,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Other,0.000000000,0,0,0,0,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,All Wired,0.000000000,0,0,0,0,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Any Terrestrial,0.837270341,0.837270341,0.837270341,0.590551181,0,0.000000000
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,All Wired and Licensed Fixed Wireless,0,0,0.000000000,0,0,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Copper,0,0,0.000000000,0,0,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Copper,0,0,0,0,0,0.000000000
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Cable/Fiber,0.000000000,0,0,0,0,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Cable,0,0,0,0,0.000000000,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Fiber,0,0,0,0,0,0.000000000
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Fiber,0,0,0,0,0.000000000,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,All Fixed Wireless,0.837270341,0.837270341,0.837270341,0.590551181,0.000000000,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,All Fixed Wireless,0.837270341,0.837270341,0.837270341,0.590551181,0,0.000000000
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Unlicensed Fixed Wireless,0.837270341,0.837270341,0.837270341,0.590551181,0,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Unlicensed Fixed Wireless,0.837270341,0.837270341,0.837270341,0.590551181,0.000000000,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Licensed Fixed Wireless,0,0,0.000000000,0,0,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Other,0.000000000,0,0,0,0,0
+Total,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Other,0,0,0,0,0,0.000000000
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.002711864,0.002711864
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,All Wired,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Any Terrestrial,0.597288136,0.597288136,0.597288136,0.543728814,0.002711864,0.002711864
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,All Wired and Licensed Fixed Wireless,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Copper,0,0.000000000,0,0,0,0
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Copper,0.000000000,0,0,0,0,0
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Cable/Fiber,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Cable,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Fiber,0,0,0,0.000000000,0,0
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Fiber,0,0,0,0,0.000000000,0
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,All Fixed Wireless,0.597288136,0.597288136,0.597288136,0.543728814,0,0.000000000
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,All Fixed Wireless,0.597288136,0.597288136,0.597288136,0.543728814,0,0.000000000
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Unlicensed Fixed Wireless,0.597288136,0.597288136,0.597288136,0.543728814,0,0.000000000
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Unlicensed Fixed Wireless,0.597288136,0.597288136,0.597288136,0.543728814,0,0
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Licensed Fixed Wireless,0,0,0.000000000,0,0,0
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Other,0,0,0,0,0.000000000,0
+Total,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Other,0.000000000,0,0,0,0,0
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.577215190,0.577215190
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,All Wired,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Any Terrestrial,0.673417722,0.673417722,0.673417722,0.673417722,0.577215190,0.577215190
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,All Wired and Licensed Fixed Wireless,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Copper,0,0,0,0,0,0.000000000
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Copper,0,0.000000000,0,0,0,0
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Cable/Fiber,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Cable,0.220253165,0.220253165,0.220253165,0.220253165,0.220253165,0.220253165
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Fiber,0.853164557,0.853164557,0.853164557,0.853164557,0.853164557,0.853164557
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Fiber,0.518987342,0.518987342,0.518987342,0.518987342,0.518987342,0.518987342
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0.000000000,0,0
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,All Fixed Wireless,0.372151899,0.372151899,0.308860759,0.308860759,0,0
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,All Fixed Wireless,0.308860759,0.308860759,0.308860759,0.308860759,0,0
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Unlicensed Fixed Wireless,0.372151899,0.372151899,0.308860759,0.308860759,0.000000000,0
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Unlicensed Fixed Wireless,0.308860759,0.308860759,0.308860759,0.308860759,0,0.000000000
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Licensed Fixed Wireless,0.000000000,0,0,0,0,0
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Other,0,0.000000000,0,0,0,0
+Total,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Other,0,0.000000000,0,0,0,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.676731794,0.676731794
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,All Wired,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Any Terrestrial,0.975133215,0.975133215,0.975133215,0.975133215,0.676731794,0.676731794
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,All Wired and Licensed Fixed Wireless,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Copper,0,0,0,0,0.000000000,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Copper,0,0,0,0,0,0.000000000
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Cable/Fiber,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Cable,0,0.000000000,0,0,0,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Fiber,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Fiber,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,All Fixed Wireless,0.797513321,0.797513321,0.783303730,0.783303730,0,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,All Fixed Wireless,0.783303730,0.783303730,0.783303730,0.783303730,0,0.000000000
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Unlicensed Fixed Wireless,0.797513321,0.797513321,0.783303730,0.783303730,0,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Unlicensed Fixed Wireless,0.783303730,0.783303730,0.783303730,0.783303730,0,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Licensed Fixed Wireless,0,0,0.000000000,0,0,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Other,0,0.000000000,0,0,0,0
+Total,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Other,0,0,0.000000000,0,0,0
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.994535519,0.994535519
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,All Wired,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,0.994535519,0.994535519
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,All Wired and Licensed Fixed Wireless,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Copper,0,0.000000000,0,0,0,0
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Copper,0.000000000,0,0,0,0,0
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Cable/Fiber,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Cable,0.387978142,0.387978142,0.387978142,0.387978142,0.387978142,0.387978142
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Fiber,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Fiber,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,All Fixed Wireless,0.382513661,0.382513661,0.382513661,0.371584699,0.000000000,0
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,All Fixed Wireless,0.382513661,0.382513661,0.382513661,0.371584699,0,0
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Unlicensed Fixed Wireless,0.382513661,0.382513661,0.382513661,0.371584699,0,0.000000000
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Unlicensed Fixed Wireless,0.382513661,0.382513661,0.382513661,0.371584699,0.000000000,0
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Other,0,0,0,0.000000000,0,0
+Total,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Other,0,0.000000000,0,0,0,0
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.959500000,0.959500000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,All Wired,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Any Terrestrial,0.986000000,0.986000000,0.986000000,0.986000000,0.959500000,0.959500000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,All Wired and Licensed Fixed Wireless,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Copper,0,0,0.000000000,0,0,0
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Copper,0,0,0,0,0.000000000,0
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Cable/Fiber,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Cable,0.003500000,0.003500000,0.003500000,0.003500000,0.003500000,0.003500000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Fiber,0.959000000,0.959000000,0.959000000,0.959000000,0.959000000,0.959000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Fiber,0.956000000,0.956000000,0.956000000,0.956000000,0.956000000,0.956000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,All Fixed Wireless,0.803000000,0.803000000,0.803000000,0.803000000,0,0
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,All Fixed Wireless,0.803000000,0.803000000,0.803000000,0.803000000,0,0.000000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Unlicensed Fixed Wireless,0.803000000,0.803000000,0.803000000,0.803000000,0,0
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Unlicensed Fixed Wireless,0.803000000,0.803000000,0.803000000,0.803000000,0,0.000000000
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Other,0,0.000000000,0,0,0,0
+Total,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Other,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.328887329,0.328887329
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,All Wired,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Any Terrestrial,0.871533872,0.871533872,0.871533872,0.795015795,0.328887329,0.328887329
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,All Wired and Licensed Fixed Wireless,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Copper,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Copper,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Cable/Fiber,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Cable,0.097578098,0.097578098,0.097578098,0.097578098,0.097578098,0.097578098
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Fiber,0.383994384,0.383994384,0.383994384,0.383994384,0.383994384,0.383994384
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Fiber,0.295191295,0.295191295,0.295191295,0.295191295,0.295191295,0.295191295
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,All Fixed Wireless,0.743418743,0.743418743,0.743418743,0.663039663,0,0.000000000
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,All Fixed Wireless,0.743418743,0.743418743,0.743418743,0.663039663,0,0
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Unlicensed Fixed Wireless,0.743418743,0.743418743,0.743418743,0.663039663,0.000000000,0
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Unlicensed Fixed Wireless,0.743418743,0.743418743,0.743418743,0.663039663,0,0.000000000
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Other,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Other,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Copper,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Copper,0,0.000000000,0,0,0,0
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Cable,0.138392857,0.138392857,0.138392857,0.138392857,0.138392857,0.138392857
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,All Fixed Wireless,0.596726190,0.596726190,0.596726190,0.590773810,0,0
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,All Fixed Wireless,0.596726190,0.596726190,0.596726190,0.590773810,0.000000000,0
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Unlicensed Fixed Wireless,0.596726190,0.596726190,0.596726190,0.590773810,0.000000000,0
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Unlicensed Fixed Wireless,0.596726190,0.596726190,0.596726190,0.590773810,0.000000000,0
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Other,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Other,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.775173611,0.775173611
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,All Wired,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Any Terrestrial,0.960937500,0.960937500,0.960937500,0.932291667,0.775173611,0.775173611
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,All Wired and Licensed Fixed Wireless,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Copper,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Copper,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Cable/Fiber,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Cable,0.999131944,0.999131944,0.999131944,0.999131944,0.999131944,0.999131944
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Cable,0.039062500,0.039062500,0.039062500,0.039062500,0.039062500,0.039062500
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Fiber,0.776909722,0.776909722,0.776909722,0.776909722,0.776909722,0.776909722
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Fiber,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611,0.775173611
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,All Fixed Wireless,0.702256944,0.702256944,0.702256944,0.632812500,0,0
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,All Fixed Wireless,0.702256944,0.702256944,0.702256944,0.632812500,0,0
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Unlicensed Fixed Wireless,0.702256944,0.702256944,0.702256944,0.632812500,0,0
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Unlicensed Fixed Wireless,0.702256944,0.702256944,0.702256944,0.632812500,0,0.000000000
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,R,Other,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1152,B,Other,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.175604627,0.175604627
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,All Wired,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Any Terrestrial,0.618296530,0.618296530,0.618296530,0.601472135,0.175604627,0.175604627
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,All Wired and Licensed Fixed Wireless,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Copper,0,0.000000000,0,0,0,0
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Copper,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Cable/Fiber,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Cable,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627,0.175604627
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Fiber,0.202944269,0.202944269,0.202944269,0.202944269,0.202944269,0.202944269
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Fiber,0.114616193,0.114616193,0.114616193,0.114616193,0.114616193,0.114616193
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,All Fixed Wireless,0.476340694,0.476340694,0.470031546,0.435331230,0,0.000000000
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,All Fixed Wireless,0.470031546,0.470031546,0.470031546,0.435331230,0,0
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Unlicensed Fixed Wireless,0.476340694,0.476340694,0.470031546,0.435331230,0,0
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Unlicensed Fixed Wireless,0.470031546,0.470031546,0.470031546,0.435331230,0,0
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,R,Other,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7819900,Christiansted,"Christiansted, VI",951,B,Other,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,All Wired,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Any Terrestrial,0.837270341,0.837270341,0.837270341,0.590551181,0,0.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,All Wired and Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Copper,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Copper,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Cable/Fiber,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Cable,0,0.000000000,0,0,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Fiber,0,0.000000000,0,0,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Fiber,0,0.000000000,0,0,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,All Fixed Wireless,0.837270341,0.837270341,0.837270341,0.590551181,0,0.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,All Fixed Wireless,0.837270341,0.837270341,0.837270341,0.590551181,0.000000000,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Unlicensed Fixed Wireless,0.837270341,0.837270341,0.837270341,0.590551181,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Unlicensed Fixed Wireless,0.837270341,0.837270341,0.837270341,0.590551181,0,0
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Other,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Other,0,0,0.000000000,0,0,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.002711864,0.002711864
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,All Wired,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Any Terrestrial,0.597288136,0.597288136,0.597288136,0.543728814,0.002711864,0.002711864
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,All Wired and Licensed Fixed Wireless,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Copper,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Copper,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Cable/Fiber,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Cable,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864,0.002711864
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Fiber,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Fiber,0,0.000000000,0,0,0,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,All Fixed Wireless,0.597288136,0.597288136,0.597288136,0.543728814,0,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,All Fixed Wireless,0.597288136,0.597288136,0.597288136,0.543728814,0,0.000000000
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Unlicensed Fixed Wireless,0.597288136,0.597288136,0.597288136,0.543728814,0,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Unlicensed Fixed Wireless,0.597288136,0.597288136,0.597288136,0.543728814,0,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,R,Other,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1475,B,Other,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.577215190,0.577215190
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,All Wired,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Any Terrestrial,0.673417722,0.673417722,0.673417722,0.673417722,0.577215190,0.577215190
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,All Wired and Licensed Fixed Wireless,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Copper,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Copper,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Cable/Fiber,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Cable,0.220253165,0.220253165,0.220253165,0.220253165,0.220253165,0.220253165
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Fiber,0.853164557,0.853164557,0.853164557,0.853164557,0.853164557,0.853164557
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Fiber,0.518987342,0.518987342,0.518987342,0.518987342,0.518987342,0.518987342
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,All Fixed Wireless,0.372151899,0.372151899,0.308860759,0.308860759,0.000000000,0
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,All Fixed Wireless,0.308860759,0.308860759,0.308860759,0.308860759,0,0
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Unlicensed Fixed Wireless,0.372151899,0.372151899,0.308860759,0.308860759,0,0
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Unlicensed Fixed Wireless,0.308860759,0.308860759,0.308860759,0.308860759,0,0
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Licensed Fixed Wireless,0,0,0.000000000,0,0,0
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Other,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Other,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.676731794,0.676731794
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,All Wired,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Any Terrestrial,0.975133215,0.975133215,0.975133215,0.975133215,0.676731794,0.676731794
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,All Wired and Licensed Fixed Wireless,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Copper,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Copper,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Cable/Fiber,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Cable,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Fiber,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Fiber,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0.000000000,0
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,All Fixed Wireless,0.797513321,0.797513321,0.783303730,0.783303730,0,0.000000000
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,All Fixed Wireless,0.783303730,0.783303730,0.783303730,0.783303730,0,0.000000000
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Unlicensed Fixed Wireless,0.797513321,0.797513321,0.783303730,0.783303730,0.000000000,0
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Unlicensed Fixed Wireless,0.783303730,0.783303730,0.783303730,0.783303730,0,0.000000000
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Licensed Fixed Wireless,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Licensed Fixed Wireless,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Other,0,0.000000000,0,0,0,0
+Nontribal,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Other,0.000000000,0,0,0,0,0
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.994535519,0.994535519
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,All Wired,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,0.994535519,0.994535519
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,All Wired and Licensed Fixed Wireless,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Copper,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Copper,0,0,0,0.000000000,0,0
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Cable/Fiber,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Cable,0.387978142,0.387978142,0.387978142,0.387978142,0.387978142,0.387978142
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Fiber,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Fiber,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,All Fixed Wireless,0.382513661,0.382513661,0.382513661,0.371584699,0,0.000000000
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,All Fixed Wireless,0.382513661,0.382513661,0.382513661,0.371584699,0.000000000,0
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Unlicensed Fixed Wireless,0.382513661,0.382513661,0.382513661,0.371584699,0,0
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Unlicensed Fixed Wireless,0.382513661,0.382513661,0.382513661,0.371584699,0.000000000,0
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Other,0,0,0.000000000,0,0,0
+Nontribal,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Other,0,0.000000000,0,0,0,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.959500000,0.959500000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,All Wired,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Any Terrestrial,0.986000000,0.986000000,0.986000000,0.986000000,0.959500000,0.959500000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,All Wired and Licensed Fixed Wireless,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Copper,0,0,0,0.000000000,0,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Copper,0,0,0.000000000,0,0,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Cable/Fiber,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Cable,0.003500000,0.003500000,0.003500000,0.003500000,0.003500000,0.003500000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Fiber,0.959000000,0.959000000,0.959000000,0.959000000,0.959000000,0.959000000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Fiber,0.956000000,0.956000000,0.956000000,0.956000000,0.956000000,0.956000000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,All Fixed Wireless,0.803000000,0.803000000,0.803000000,0.803000000,0,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,All Fixed Wireless,0.803000000,0.803000000,0.803000000,0.803000000,0,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Unlicensed Fixed Wireless,0.803000000,0.803000000,0.803000000,0.803000000,0,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Unlicensed Fixed Wireless,0.803000000,0.803000000,0.803000000,0.803000000,0.000000000,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Licensed Fixed Wireless,0,0,0,0.000000000,0,0
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Other,0,0,0,0,0,0.000000000
+Nontribal,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Other,0,0.000000000,0,0,0,0
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.328887329,0.328887329
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,All Wired,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Any Terrestrial,0.871533872,0.871533872,0.871533872,0.795015795,0.328887329,0.328887329
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,All Wired and Licensed Fixed Wireless,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Copper,0,0,0,0,0.000000000,0
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Copper,0,0,0.000000000,0,0,0
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Cable/Fiber,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329,0.328887329
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Cable,0.097578098,0.097578098,0.097578098,0.097578098,0.097578098,0.097578098
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Fiber,0.383994384,0.383994384,0.383994384,0.383994384,0.383994384,0.383994384
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Fiber,0.295191295,0.295191295,0.295191295,0.295191295,0.295191295,0.295191295
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,All Fixed Wireless,0.743418743,0.743418743,0.743418743,0.663039663,0,0
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,All Fixed Wireless,0.743418743,0.743418743,0.743418743,0.663039663,0,0.000000000
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Unlicensed Fixed Wireless,0.743418743,0.743418743,0.743418743,0.663039663,0,0
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Unlicensed Fixed Wireless,0.743418743,0.743418743,0.743418743,0.663039663,0,0
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Licensed Fixed Wireless,0,0,0,0.000000000,0,0
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,R,Other,0,0,0,0,0.000000000,0
+Urban,Census Place,7816300,Charlotte Amalie,"Charlotte Amalie, VI",2849,B,Other,0,0,0,0,0.000000000,0
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Copper,0.000000000,0,0,0,0,0
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Copper,0,0.000000000,0,0,0,0
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Cable,0.138392857,0.138392857,0.138392857,0.138392857,0.138392857,0.138392857
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0.000000000,0
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,All Fixed Wireless,0.596726190,0.596726190,0.596726190,0.590773810,0,0
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,All Fixed Wireless,0.596726190,0.596726190,0.596726190,0.590773810,0,0.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Unlicensed Fixed Wireless,0.596726190,0.596726190,0.596726190,0.590773810,0,0
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Unlicensed Fixed Wireless,0.596726190,0.596726190,0.596726190,0.590773810,0,0
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,R,Other,0,0,0,0,0,0.000000000
+Urban,Census Place,7818100,Charlotte Amalie East,"Charlotte Amalie East, VI",672,B,Other,0,0,0,0,0,0.000000000
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.774978280,0.774978280
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,All Wired,0.774978280,0.774978280,0.774978280,0.774978280,0.774978280,0.774978280
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,Any Terrestrial,0.960903562,0.960903562,0.960903562,0.932232841,0.774978280,0.774978280
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,All Wired and Licensed Fixed Wireless,0.774978280,0.774978280,0.774978280,0.774978280,0.774978280,0.774978280
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,Copper,0,0,0,0.000000000,0,0
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,Copper,0,0,0.000000000,0,0,0
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,Cable/Fiber,0.774978280,0.774978280,0.774978280,0.774978280,0.774978280,0.774978280
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,Cable,0.039096438,0.039096438,0.039096438,0.039096438,0.039096438,0.039096438
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,Fiber,0.776715899,0.776715899,0.776715899,0.776715899,0.776715899,0.776715899
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,Fiber,0.774978280,0.774978280,0.774978280,0.774978280,0.774978280,0.774978280
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,All Fixed Wireless,0.702867072,0.702867072,0.702867072,0.633362294,0,0
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,All Fixed Wireless,0.702867072,0.702867072,0.702867072,0.633362294,0,0.000000000
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,Unlicensed Fixed Wireless,0.702867072,0.702867072,0.702867072,0.633362294,0.000000000,0
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,Unlicensed Fixed Wireless,0.702867072,0.702867072,0.702867072,0.633362294,0,0.000000000
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,R,Other,0,0,0.000000000,0,0,0
+Urban,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1151,B,Other,0.000000000,0,0,0,0,0
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.175974710,0.175974710
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,All Wired,0.175974710,0.175974710,0.175974710,0.175974710,0.175974710,0.175974710
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,Any Terrestrial,0.617492097,0.617492097,0.617492097,0.600632244,0.175974710,0.175974710
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,All Wired and Licensed Fixed Wireless,0.175974710,0.175974710,0.175974710,0.175974710,0.175974710,0.175974710
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,Copper,0.000000000,0,0,0,0,0
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,Copper,0.000000000,0,0,0,0,0
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,Cable/Fiber,0.175974710,0.175974710,0.175974710,0.175974710,0.175974710,0.175974710
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,Cable,0.175974710,0.175974710,0.175974710,0.175974710,0.175974710,0.175974710
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,Fiber,0.203371970,0.203371970,0.203371970,0.203371970,0.203371970,0.203371970
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,Fiber,0.114857745,0.114857745,0.114857745,0.114857745,0.114857745,0.114857745
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0.000000000,0,0
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,All Fixed Wireless,0.475237092,0.475237092,0.468914647,0.434141201,0,0
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,All Fixed Wireless,0.468914647,0.468914647,0.468914647,0.434141201,0,0
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,Unlicensed Fixed Wireless,0.475237092,0.475237092,0.468914647,0.434141201,0,0
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,Unlicensed Fixed Wireless,0.468914647,0.468914647,0.468914647,0.434141201,0,0
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,R,Other,0,0.000000000,0,0,0,0
+Urban,Census Place,7819900,Christiansted,"Christiansted, VI",949,B,Other,0,0,0,0.000000000,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.002717391,0.002717391
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,All Wired,0.002717391,0.002717391,0.002717391,0.002717391,0.002717391,0.002717391
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,Any Terrestrial,0.598505435,0.598505435,0.598505435,0.544836957,0.002717391,0.002717391
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,All Wired and Licensed Fixed Wireless,0.002717391,0.002717391,0.002717391,0.002717391,0.002717391,0.002717391
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,Copper,0,0.000000000,0,0,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,Copper,0,0,0,0,0.000000000,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,Cable/Fiber,0.002717391,0.002717391,0.002717391,0.002717391,0.002717391,0.002717391
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,Cable,0.002717391,0.002717391,0.002717391,0.002717391,0.002717391,0.002717391
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,Fiber,0,0.000000000,0,0,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,Fiber,0,0.000000000,0,0,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,All Fixed Wireless,0.598505435,0.598505435,0.598505435,0.544836957,0.000000000,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,All Fixed Wireless,0.598505435,0.598505435,0.598505435,0.544836957,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,Unlicensed Fixed Wireless,0.598505435,0.598505435,0.598505435,0.544836957,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,Unlicensed Fixed Wireless,0.598505435,0.598505435,0.598505435,0.544836957,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,Licensed Fixed Wireless,0,0,0.000000000,0,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,R,Other,0,0.000000000,0,0,0,0
+Urban,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",1472,B,Other,0,0.000000000,0,0,0,0
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.577215190,0.577215190
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,All Wired,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Any Terrestrial,0.673417722,0.673417722,0.673417722,0.673417722,0.577215190,0.577215190
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,All Wired and Licensed Fixed Wireless,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Copper,0,0.000000000,0,0,0,0
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Copper,0,0.000000000,0,0,0,0
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Cable/Fiber,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190,0.577215190
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Cable,0.220253165,0.220253165,0.220253165,0.220253165,0.220253165,0.220253165
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Fiber,0.853164557,0.853164557,0.853164557,0.853164557,0.853164557,0.853164557
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Fiber,0.518987342,0.518987342,0.518987342,0.518987342,0.518987342,0.518987342
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,All Fixed Wireless,0.372151899,0.372151899,0.308860759,0.308860759,0.000000000,0
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,All Fixed Wireless,0.308860759,0.308860759,0.308860759,0.308860759,0,0
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Unlicensed Fixed Wireless,0.372151899,0.372151899,0.308860759,0.308860759,0,0.000000000
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Unlicensed Fixed Wireless,0.308860759,0.308860759,0.308860759,0.308860759,0,0
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Licensed Fixed Wireless,0,0,0.000000000,0,0,0
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,R,Other,0,0,0,0,0.000000000,0
+Urban,Census Place,7837900,Frederiksted,"Frederiksted, VI",395,B,Other,0.000000000,0,0,0,0,0
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.676731794,0.676731794
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,All Wired,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Any Terrestrial,0.975133215,0.975133215,0.975133215,0.975133215,0.676731794,0.676731794
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,All Wired and Licensed Fixed Wireless,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Copper,0,0,0,0.000000000,0,0
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Copper,0,0,0,0,0,0.000000000
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Cable/Fiber,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Cable,0,0,0,0,0,0.000000000
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Fiber,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Fiber,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794,0.676731794
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0.000000000,0
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,All Fixed Wireless,0.797513321,0.797513321,0.783303730,0.783303730,0.000000000,0
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,All Fixed Wireless,0.783303730,0.783303730,0.783303730,0.783303730,0.000000000,0
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Unlicensed Fixed Wireless,0.797513321,0.797513321,0.783303730,0.783303730,0.000000000,0
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Unlicensed Fixed Wireless,0.783303730,0.783303730,0.783303730,0.783303730,0,0.000000000
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Licensed Fixed Wireless,0,0,0.000000000,0,0,0
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,R,Other,0,0,0,0,0.000000000,0
+Urban,Census Place,7839700,Frederiksted Southeast,"Frederiksted Southeast, VI",563,B,Other,0.000000000,0,0,0,0,0
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.994535519,0.994535519
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,All Wired,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,0.994535519,0.994535519
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,All Wired and Licensed Fixed Wireless,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Copper,0,0,0,0,0.000000000,0
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Copper,0,0,0,0,0.000000000,0
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Cable/Fiber,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Cable,0.387978142,0.387978142,0.387978142,0.387978142,0.387978142,0.387978142
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Fiber,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Fiber,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519,0.994535519
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,All Fixed Wireless,0.382513661,0.382513661,0.382513661,0.371584699,0,0
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,All Fixed Wireless,0.382513661,0.382513661,0.382513661,0.371584699,0,0.000000000
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Unlicensed Fixed Wireless,0.382513661,0.382513661,0.382513661,0.371584699,0,0.000000000
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Unlicensed Fixed Wireless,0.382513661,0.382513661,0.382513661,0.371584699,0,0
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Licensed Fixed Wireless,0,0,0.000000000,0,0,0
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,R,Other,0,0,0,0,0,0.000000000
+Urban,Census Place,7865530,Red Hook,"Red Hook, VI",183,B,Other,0,0,0,0,0,0.000000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0.959500000,0.959500000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,All Wired,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Any Terrestrial,0.986000000,0.986000000,0.986000000,0.986000000,0.959500000,0.959500000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,All Wired and Licensed Fixed Wireless,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Copper,0,0,0,0,0,0.000000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Copper,0,0,0.000000000,0,0,0
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Cable/Fiber,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000,0.959500000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Cable,0.003500000,0.003500000,0.003500000,0.003500000,0.003500000,0.003500000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Fiber,0.959000000,0.959000000,0.959000000,0.959000000,0.959000000,0.959000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Fiber,0.956000000,0.956000000,0.956000000,0.956000000,0.956000000,0.956000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,All Fixed Wireless,0.803000000,0.803000000,0.803000000,0.803000000,0.000000000,0
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,All Fixed Wireless,0.803000000,0.803000000,0.803000000,0.803000000,0,0.000000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Unlicensed Fixed Wireless,0.803000000,0.803000000,0.803000000,0.803000000,0,0
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Unlicensed Fixed Wireless,0.803000000,0.803000000,0.803000000,0.803000000,0.000000000,0
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Licensed Fixed Wireless,0,0,0,0,0.000000000,0
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,R,Other,0.000000000,0,0,0,0,0
+Urban,Census Place,7878300,Tutu,"Tutu, VI",2000,B,Other,0,0,0,0,0.000000000,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,Copper,0.000000000,0,0,0,0,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,Copper,0,0.000000000,0,0,0,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,Cable,0,0,0,0,0.000000000,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,Cable,0,0,0.000000000,0,0,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0.000000000,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0.000000000,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,All Fixed Wireless,0,0.000000000,0,0,0,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,All Fixed Wireless,0,0,0,0.000000000,0,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,Unlicensed Fixed Wireless,0,0,0,0,0.000000000,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,Unlicensed Fixed Wireless,0,0,0.000000000,0,0,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,Licensed Fixed Wireless,0,0,0.000000000,0,0,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,R,Other,0,0,0,0,0,0.000000000
+Rural,Census Place,7819000,Charlotte Amalie West,"Charlotte Amalie West, VI",1,B,Other,0,0,0,0,0.000000000,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,All Wired,0,0,0,0,0.000000000,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,All Wired and Licensed Fixed Wireless,0.000000000,0,0,0,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,Copper,0.000000000,0,0,0,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,Copper,0,0,0,0,0,0.000000000
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,Cable/Fiber,0.000000000,0,0,0,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,Cable,0.000000000,0,0,0,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,Fiber,0.000000000,0,0,0,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,Fiber,0.000000000,0,0,0,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0.000000000
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,All Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,All Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,Unlicensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,Unlicensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,R,Other,0.000000000,0,0,0,0,0
+Rural,Census Place,7819900,Christiansted,"Christiansted, VI",2,B,Other,0,0,0,0,0.000000000,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,All Wired,0,0,0,0,0,0.000000000
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Any Terrestrial,0.837270341,0.837270341,0.837270341,0.590551181,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,All Wired and Licensed Fixed Wireless,0,0,0,0,0,0.000000000
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Copper,0,0,0.000000000,0,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Copper,0,0,0.000000000,0,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Cable/Fiber,0,0.000000000,0,0,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Cable,0,0,0,0,0,0.000000000
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Fiber,0.000000000,0,0,0,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Fiber,0,0.000000000,0,0,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0.000000000,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,All Fixed Wireless,0.837270341,0.837270341,0.837270341,0.590551181,0,0.000000000
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,All Fixed Wireless,0.837270341,0.837270341,0.837270341,0.590551181,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Unlicensed Fixed Wireless,0.837270341,0.837270341,0.837270341,0.590551181,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Unlicensed Fixed Wireless,0.837270341,0.837270341,0.837270341,0.590551181,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Licensed Fixed Wireless,0.000000000,0,0,0,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,R,Other,0,0.000000000,0,0,0,0
+Rural,Census Place,7827000,Coral Bay,"Coral Bay, VI",381,B,Other,0.000000000,0,0,0,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,Any Technology,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,All Wired,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,All Wired,0,0,0,0,0,0.000000000
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,Any Terrestrial,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,Any Terrestrial,0,0,0.000000000,0,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,All Wired and Licensed Fixed Wireless,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,All Wired and Licensed Fixed Wireless,0,0.000000000,0,0,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,Copper,0,0,0,0.000000000,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,Copper,0,0.000000000,0,0,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,Cable/Fiber,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,Cable/Fiber,0,0.000000000,0,0,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,Cable,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000,1.000000000
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,Cable,0,0,0,0,0,0.000000000
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,Fiber,0,0,0.000000000,0,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,Fiber,0,0,0,0.000000000,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0.000000000
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,All Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,GSO Satellite,1.000000000,1.000000000,1.000000000,0,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,NGSO Satellite,1.000000000,1.000000000,1.000000000,1.000000000,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,All Fixed Wireless,0,0,0.000000000,0,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,All Fixed Wireless,0,0.000000000,0,0,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,Unlicensed Fixed Wireless,0,0,0,0.000000000,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,Unlicensed Fixed Wireless,0,0,0.000000000,0,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,Licensed Fixed Wireless,0,0,0,0.000000000,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,Licensed Fixed Wireless,0.000000000,0,0,0,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,R,Other,0,0.000000000,0,0,0,0
+Rural,Census Place,7828000,Cruz Bay,"Cruz Bay, VI",3,B,Other,0,0.000000000,0,0,0,0
