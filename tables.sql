@@ -61,7 +61,7 @@ CREATE TABLE IF NOT EXISTS fcc_mobile.dim_speed
     PRIMARY KEY(id, geography_id)
 ); 
 
-CREATE TABLE IF NOT EXISTS fcc_mobile.dim_34g
+CREATE TABLE IF NOT EXISTS fcc_mobile.dim_3g4g
 (
     id BIGSERIAL,
     geography_id INT NOT NULL,
