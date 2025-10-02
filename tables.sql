@@ -5,6 +5,7 @@ CREATE TABLE IF NOT EXISTS fcc_fixed.fact_geo
 (
     id BIGSERIAL,
     geography_id VARCHAR NOT NULL,
+    area_data_type VARCHAR,
     geography_type VARCHAR NOT NULL,
     geography_desc VARCHAR NOT NULL,
     total_area VARCHAR,
@@ -47,6 +48,9 @@ CREATE TABLE IF NOT EXISTS fcc_mobile.fact_geo
     geography_type VARCHAR NOT NULL,
     geography_desc VARCHAR NOT NULL,
     total_area DECIMAL,
+    FOREIGN KEY (id, geography_id) REFERENCES fcc_mobile.dim_speed(id, geography_id), 
+    FOREIGN KEY (id, geography_id) REFERENCES fcc_mobile.dim_3g(id, geography_id),
+    FOREIGN KEY (id, geography_id) REFERENCES fcc_mobile.dim_4g(id, geography_id), 
     PRIMARY KEY(id, geography_id)
 );
 
