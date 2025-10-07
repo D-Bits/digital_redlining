@@ -1,4 +1,9 @@
-FROM apache/airflow:3.0.1
+FROM apache/airflow:latest
+
+# Upgrade system packages to reduce vulnerabilities
+USER root
+RUN apt-get update && apt-get upgrade -y && apt-get clean
+USER airflow
 
 
 # Add requirements.txt
