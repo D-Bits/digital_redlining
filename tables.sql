@@ -54,19 +54,6 @@ CREATE TABLE IF NOT EXISTS fcc_mobile.fact_geo
     PRIMARY KEY(id, geography_id)
 );
 
-CREATE TABLE IF NOT EXISTS fcc_mobile.dim_speed
-(
-    id BIGSERIAL,
-    geography_id INT NOT NULL,
-    speed_5_1 DECIMAL,
-    speed_10_1 DECIMAL,
-    speed_25_3 DECIMAL,
-    speed_100_10 DECIMAL,
-    speed_250_25 DECIMAL,
-    speed_1000_100 DECIMAL,
-    PRIMARY KEY(id, geography_id)
-); 
-
 CREATE TABLE IF NOT EXISTS fcc_mobile.dim_3g
 (
     id BIGSERIAL,
