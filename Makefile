@@ -7,3 +7,7 @@ startb:
 
 build:
 	sudo docker-compose build
+
+# Open a bash shell inside the Airflow trigger container
+airflow_bash:
+	sudo docker run -it digital_redlining-airflow-triggerer bash
