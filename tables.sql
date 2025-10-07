@@ -49,18 +49,6 @@ CREATE TABLE IF NOT EXISTS fcc_fixed.fact_provider
     FOREIGN KEY (id, provider_id) REFERENCES fcc_fixed.dim_technology(id, geography_id)
 );
 
-CREATE TABLE IF NOT EXISTS fcc_fixed.dim_mobile_provider
-(
-    id BIGSERIAL NOT NULL,
-    provider_id NUMERIC NOT NULL,
-    holding_company VARCHAR,
-    technology_code INT NOT NULL,
-    technology_code_desc VARCHAR,
-    area_stationary INT,
-    area_invehicle INT,
-    PRIMARY KEY(id, provider_id)
-);
-
 CREATE TABLE IF NOT EXISTS fcc_fixed.dim_fixed_provider
 (
     id BIGSERIAL NOT NULL,
@@ -117,4 +105,27 @@ CREATE TABLE IF NOT EXISTS fcc_mobile.dim_5g
     mobilebb_5g_spd2_area_st_pct DECIMAL,
     mobilebb_5g_spd2_area_iv_pct DECIMAL,
     PRIMARY KEY(id, geography_id)
+);
+
+CREATE TABLE IF NOT EXISTS fcc_mobile.fact_provider
+(
+    id BIGSERIAL NOT NULL,
+    provider_id NUMERIC NOT NULL,
+    frn BIGINT,
+    holding_company VARCHAR,
+    PRIMARY KEY(id, provider_id),
+    FOREIGN KEY (id, provider_id) REFERENCES fcc_fixed.dim_speed(id, provider_id),
+    FOREIGN KEY (id, provider_id) REFERENCES fcc_fixed.dim_technology(id, geography_id)
+);
+
+CREATE TABLE IF NOT EXISTS fcc_fixed.dim_mobile_provider
+(
+    id BIGSERIAL NOT NULL,
+    provider_id NUMERIC NOT NULL,
+    holding_company VARCHAR,
+    technology_code INT NOT NULL,
+    technology_code_desc VARCHAR,
+    area_stationary INT,
+    area_invehicle INT,
+    PRIMARY KEY(id, provider_id)
 );
