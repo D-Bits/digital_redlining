@@ -1,12 +1,18 @@
 """
 DAG to ingest data for fixed broadband.
 """
-from airflow.sdk import dag, task
+from airflow.sdk import dag, task, DAG
 import pandas as pd
 import datetime
 
 
-@dag(schedule='@daily', start_date=datetime.datetime(2025, 1, 1), catchup=False)
+@dag(
+    schedule=None, 
+    start_date=datetime.datetime(2025, 1, 1), 
+    catchup=False,
+    tags=['fcc'],
+    dag_id='fixed_speed_etl'
+)
 def fixed_etl():
 
     @task()
