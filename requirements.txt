@@ -7,15 +7,8 @@ alembic==1.16.5
 amqp==5.3.1
 annotated-types==0.7.0
 anyio==4.11.0
-apache-airflow==3.1.0
-apache-airflow-core==3.1.0
-apache-airflow-providers-celery==3.12.3
-apache-airflow-providers-common-compat==1.7.4
-apache-airflow-providers-common-io==1.6.3
-apache-airflow-providers-common-sql==1.28.1
-apache-airflow-providers-smtp==2.2.1
-apache-airflow-providers-standard==1.8.0
-apache-airflow-task-sdk==1.1.0
+apache-airflow-providers-common-sql==5.4.0
+apache-airflow-providers-postgres==5.4.0
 argcomplete==3.6.2
 argon2-cffi==25.1.0
 argon2-cffi-bindings==25.1.0
