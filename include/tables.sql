@@ -1,6 +1,4 @@
 
-CREATE SCHEMA IF NOT EXISTS fcc_fixed;
-
 CREATE TABLE IF NOT EXISTS fcc_fixed.fact_geo
 (
     id BIGSERIAL,
@@ -48,8 +46,6 @@ CREATE TABLE IF NOT EXISTS fcc_fixed.fact_provider
     FOREIGN KEY (id, provider_id) REFERENCES fcc_fixed.dim_speed(id, provider_id),
     FOREIGN KEY (id, provider_id) REFERENCES fcc_fixed.dim_technology(id, geography_id)
 );
-
-CREATE SCHEMA IF NOT EXISTS fcc_mobile;
 
 CREATE TABLE IF NOT EXISTS fcc_mobile.fact_geo
 (
