@@ -20,7 +20,7 @@ def db_init():
 
         create_database = SQLExecuteQueryOperator(
             task_id='create_db', 
-            conn_id='airflow_default', 
+            conn_id='pg_main', 
             sql='CREATE DATABASE IF NOT EXISTS redlining;'
         )
     
@@ -30,7 +30,7 @@ def db_init():
 
         create_tbl = SQLExecuteQueryOperator(
             task_id='create_tables', 
-            conn_id='redlining_pg', 
+            conn_id='pg_redlining', 
             sql="tables.sql"
         )
 
