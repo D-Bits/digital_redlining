@@ -1,5 +1,5 @@
 """
-DAG to ingest data for fixed broadband.
+DAG to ingest data for mobile broadband.
 """
 from airflow.sdk import dag, task
 from config import redlining_engine
