@@ -16,34 +16,37 @@ import datetime
 )
 def db_init():
 
-    @task()
+    @task
     def create_db():
 
         create_database = SQLExecuteQueryOperator(
             task_id='create_db', 
             conn_id='pg_main',
             database='postgres', 
-            sql='init.sql'
+            sql='init.sql',
+            autocommit=True
         )
 
-    @task()
+    @task
     def create_schemas():
         
         create_schemas = SQLExecuteQueryOperator(
             task_id='create_schemas', 
             conn_id='pg_redlining', 
             database='redlining',
-            sql="schemas.sql"
+            sql="schemas.sql",
+            autocommit=True
         )
     
-    @task()
+    @task
     def create_tables():
 
         create_tbl = SQLExecuteQueryOperator(
             task_id='create_tables', 
             conn_id='pg_redlining', 
             database='redlining',
-            sql="tables.sql"
+            sql="tables.sql",
+            autocommit=True
         )
 
 
@@ -53,8 +56,6 @@ def db_init():
 
 
 db_init()
-
-# db_init()
 
 # def create_db():
 
