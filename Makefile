@@ -1,13 +1,12 @@
 
 start:
-	sudo docker-compose up
+	sudo astro dev start 
 
-startb:
-	sudo docker-compose up --build
+stop:
+	sudo astro dev stop
 
-build:
-	sudo docker-compose build
+restart:
+	sudo astro dev restart
 
-# Open a bash shell inside the Airflow trigger container
-airflow_bash:
-	sudo docker run -it digital_redlining-airflow-triggerer bash
+db_migrate:
+	sudo docker 
