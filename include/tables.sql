@@ -78,18 +78,7 @@ CREATE TABLE IF NOT EXISTS fcc_mobile.fact_geo
     PRIMARY KEY(id, geography_id)
 );
 
-CREATE TABLE IF NOT EXISTS provider.fact_provider_meta
-(
-    id BIGSERIAL NOT NULL,
-    provider_id NUMERIC NOT NULL,
-    frn BIGINT,
-    holding_company VARCHAR,
-    PRIMARY KEY(id, provider_id),
-    FOREIGN KEY (id, provider_id) REFERENCES provider.dim_mobile_provider(id, provider_id),
-    FOREIGN KEY (id, provider_id) REFERENCES provider.dim_fixed_provider(id, provider_id)
-);
-
-CREATE TABLE IF NOT EXISTS provider.dim_mobile_provider
+CREATE TABLE IF NOT EXISTS fcc_provider.dim_mobile_provider
 (
     id BIGSERIAL NOT NULL,
     provider_id NUMERIC NOT NULL,
@@ -101,7 +90,7 @@ CREATE TABLE IF NOT EXISTS provider.dim_mobile_provider
     PRIMARY KEY(id, provider_id)
 );
 
-CREATE TABLE IF NOT EXISTS provider.dim_fixed_provider
+CREATE TABLE IF NOT EXISTS fcc_provider.dim_fixed_provider
 (
     id BIGSERIAL NOT NULL,
     provider_id NUMERIC NOT NULL,
@@ -113,4 +102,15 @@ CREATE TABLE IF NOT EXISTS provider.dim_fixed_provider
     location_count_bus INT,
     unit_count_bus INT,
     PRIMARY KEY(id, provider_id)
+);
+
+CREATE TABLE IF NOT EXISTS fcc_provider.fact_provider_meta
+(
+    id BIGSERIAL NOT NULL,
+    provider_id NUMERIC NOT NULL,
+    frn BIGINT,
+    holding_company VARCHAR,
+    PRIMARY KEY(id, provider_id),
+    FOREIGN KEY (id, provider_id) REFERENCES fcc_provider.dim_mobile_provider(id, provider_id),
+    FOREIGN KEY (id, provider_id) REFERENCES fcc_provider.dim_fixed_provider(id, provider_id)
 );
