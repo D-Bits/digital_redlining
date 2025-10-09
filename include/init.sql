@@ -1,2 +1,2 @@
 
-CREATE DATABASE IF NOT EXISTS redlining;
+CREATE DATABASE redlining;
