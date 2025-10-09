@@ -9,6 +9,7 @@ CREATE TABLE IF NOT EXISTS fcc_fixed.dim_speed
     speed_100_20 DECIMAL,
     speed_250_25 DECIMAL,
     speed_1000_100 DECIMAL,
+    added TIMESTAMP DEFAULT NOW(),
     PRIMARY KEY(id, geography_id)
 );
 
@@ -20,6 +21,7 @@ CREATE TABLE IF NOT EXISTS fcc_fixed.dim_technology
     biz_res VARCHAR(1),
     technology VARCHAR,
     total_units INT,
+    added TIMESTAMP DEFAULT NOW(),
     PRIMARY KEY(id, geography_id)
 );
 
@@ -31,6 +33,7 @@ CREATE TABLE IF NOT EXISTS fcc_fixed.fact_geo
     geography_type VARCHAR NOT NULL,
     geography_desc VARCHAR NOT NULL,
     total_area VARCHAR,
+    added TIMESTAMP DEFAULT NOW(),
     FOREIGN KEY (id, geography_id) REFERENCES fcc_fixed.dim_speed(id, geography_id),
     FOREIGN KEY (id, geography_id) REFERENCES fcc_fixed.dim_technology(id, geography_id), 
     PRIMARY KEY(id, geography_id)
@@ -42,6 +45,7 @@ CREATE TABLE IF NOT EXISTS fcc_mobile.dim_3g
     geography_id INT NOT NULL,
     mobilebb_3g_area_st_pct DECIMAL,
     mobilebb_3g_area_iv_pct DECIMAL,
+    added TIMESTAMP DEFAULT NOW(),
     PRIMARY KEY(id, geography_id)
 );
 
@@ -51,6 +55,7 @@ CREATE TABLE IF NOT EXISTS fcc_mobile.dim_4g
     geography_id INT NOT NULL,
     mobilebb_4g_area_st_pct DECIMAL,
     mobilebb_4g_area_iv_pct DECIMAL,
+    added TIMESTAMP DEFAULT NOW(),
     PRIMARY KEY(id, geography_id)
 );
 
@@ -62,6 +67,7 @@ CREATE TABLE IF NOT EXISTS fcc_mobile.dim_5g
     mobilebb_5g_spd1_area_iv_pct DECIMAL,
     mobilebb_5g_spd2_area_st_pct DECIMAL,
     mobilebb_5g_spd2_area_iv_pct DECIMAL,
+    added TIMESTAMP DEFAULT NOW(),
     PRIMARY KEY(id, geography_id)
 );
 
@@ -72,6 +78,7 @@ CREATE TABLE IF NOT EXISTS fcc_mobile.fact_geo
     geography_type VARCHAR NOT NULL,
     geography_desc VARCHAR NOT NULL,
     total_area DECIMAL,
+    added TIMESTAMP DEFAULT NOW(),
     FOREIGN KEY (id, geography_id) REFERENCES fcc_mobile.dim_3g(id, geography_id),
     FOREIGN KEY (id, geography_id) REFERENCES fcc_mobile.dim_4g(id, geography_id), 
     FOREIGN KEY (id, geography_id) REFERENCES fcc_mobile.dim_5g(id, geography_id), 
@@ -87,6 +94,7 @@ CREATE TABLE IF NOT EXISTS fcc_provider.dim_mobile_provider
     technology_code_desc VARCHAR,
     area_stationary INT,
     area_invehicle INT,
+    added TIMESTAMP DEFAULT NOW(),
     PRIMARY KEY(id, provider_id)
 );
 
@@ -101,6 +109,7 @@ CREATE TABLE IF NOT EXISTS fcc_provider.dim_fixed_provider
     unit_count_res INT,
     location_count_bus INT,
     unit_count_bus INT,
+    added TIMESTAMP DEFAULT NOW(),
     PRIMARY KEY(id, provider_id)
 );
 
@@ -110,6 +119,7 @@ CREATE TABLE IF NOT EXISTS fcc_provider.fact_provider_meta
     provider_id NUMERIC NOT NULL,
     frn BIGINT,
     holding_company VARCHAR,
+    added TIMESTAMP DEFAULT NOW(),
     PRIMARY KEY(id, provider_id),
     FOREIGN KEY (id, provider_id) REFERENCES fcc_provider.dim_mobile_provider(id, provider_id),
     FOREIGN KEY (id, provider_id) REFERENCES fcc_provider.dim_fixed_provider(id, provider_id)
