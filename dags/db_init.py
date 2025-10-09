@@ -3,6 +3,7 @@ DAG to initialize the redlining database.
 """
 from airflow.sdk import dag, task
 from airflow.providers.common.sql.operators.sql import SQLExecuteQueryOperator
+# from airflow.providers.postgres.operators.postgres import PostgresOperator
 import datetime
 
 
@@ -20,23 +21,35 @@ def db_init():
 
         create_database = SQLExecuteQueryOperator(
             task_id='create_db', 
-            conn_id='pg_main', 
-            sql='CREATE DATABASE IF NOT EXISTS redlining;'
+            conn_id='pg_main',
+            database='postgres', 
+            sql='init.sql'
+        )
+
+    @task()
+    def create_schemas():
+        
+        create_schemas = SQLExecuteQueryOperator(
+            task_id='create_schemas', 
+            conn_id='pg_redlining', 
+            database='redlining',
+            sql="schemas.sql"
         )
     
-
     @task()
     def create_tables():
 
         create_tbl = SQLExecuteQueryOperator(
             task_id='create_tables', 
             conn_id='pg_redlining', 
+            database='redlining',
             sql="tables.sql"
         )
 
 
-    create_db = create_db()
-    create_tables = create_tables() 
+    create_db()
+    create_schemas()
+    create_tables() 
 
 
 db_init()
