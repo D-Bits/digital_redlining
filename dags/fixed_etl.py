@@ -2,6 +2,7 @@
 DAG to ingest data for fixed broadband.
 """
 from airflow.sdk import dag, task, DAG
+from config import redlining_engine
 import pandas as pd
 import datetime
 
@@ -70,11 +71,32 @@ def fixed_etl():
         dim_speed = pd.DataFrame.from_dict(df_dict["dim_speed"])
         dim_tech = pd.DataFrame.from_dict(df_dict["dim_tech"])
 
-        
+        # Write data to the db
+        fact_geo.to_sql(
+            'fact_geo', 
+            con=redlining_engine, 
+            schema='fcc_fixed',
+            if_exists='append', 
+            index=False
+        )
+        dim_speed.to_sql(
+            'dim_speed', 
+            con=redlining_engine, 
+            schema='fcc_fixed',
+            if_exists='append', 
+            index=False
+        )
+        dim_tech.to_sql(
+            'dim_tech', 
+            con=redlining_engine, 
+            schema='fcc_fixed',
+            if_exists='append', 
+            index=False
+        )
 
-        print(f"Data loaded into fact_geo with shape: {fact_geo.shape}")
-        print(f"Data loaded into fact_geo with shape: {dim_speed.shape}")    
-        print(f"Data loaded into fact_geo with shape: {dim_tech.shape}")    
+        print(f"Data loaded into fact_geo with shape: {len(fact_geo)}")
+        print(f"Data loaded into dim_speed with shape: {len(dim_speed)}")    
+        print(f"Data loaded into dim_tech with shape: {len(dim_tech)}")    
 
 
     extracted_data = extract()
