@@ -1,17 +1,4 @@
 
-CREATE TABLE IF NOT EXISTS fcc_fixed.fact_geo
-(
-    id BIGSERIAL,
-    geography_id VARCHAR NOT NULL,
-    area_data_type VARCHAR,
-    geography_type VARCHAR NOT NULL,
-    geography_desc VARCHAR NOT NULL,
-    total_area VARCHAR,
-    FOREIGN KEY (id, geography_id) REFERENCES fcc_fixed.dim_speed(id, geography_id),
-    FOREIGN KEY (id, geography_id) REFERENCES fcc_fixed.dim_technology(id, geography_id), 
-    PRIMARY KEY(id, geography_id)
-);
-
 CREATE TABLE IF NOT EXISTS fcc_fixed.dim_speed
 (
     id BIGSERIAL,
@@ -36,27 +23,16 @@ CREATE TABLE IF NOT EXISTS fcc_fixed.dim_technology
     PRIMARY KEY(id, geography_id)
 );
 
-CREATE TABLE IF NOT EXISTS fcc_fixed.fact_provider
-(
-    id BIGSERIAL NOT NULL,
-    provider_id NUMERIC NOT NULL,
-    frn BIGINT,
-    holding_company VARCHAR,
-    PRIMARY KEY(id, provider_id),
-    FOREIGN KEY (id, provider_id) REFERENCES fcc_fixed.dim_speed(id, provider_id),
-    FOREIGN KEY (id, provider_id) REFERENCES fcc_fixed.dim_technology(id, geography_id)
-);
-
-CREATE TABLE IF NOT EXISTS fcc_mobile.fact_geo
+CREATE TABLE IF NOT EXISTS fcc_fixed.fact_geo
 (
     id BIGSERIAL,
-    geography_id INT NOT NULL,
+    geography_id VARCHAR NOT NULL,
+    area_data_type VARCHAR,
     geography_type VARCHAR NOT NULL,
     geography_desc VARCHAR NOT NULL,
-    total_area DECIMAL,
-    FOREIGN KEY (id, geography_id) REFERENCES fcc_mobile.dim_speed(id, geography_id), 
-    FOREIGN KEY (id, geography_id) REFERENCES fcc_mobile.dim_3g(id, geography_id),
-    FOREIGN KEY (id, geography_id) REFERENCES fcc_mobile.dim_4g(id, geography_id), 
+    total_area VARCHAR,
+    FOREIGN KEY (id, geography_id) REFERENCES fcc_fixed.dim_speed(id, geography_id),
+    FOREIGN KEY (id, geography_id) REFERENCES fcc_fixed.dim_technology(id, geography_id), 
     PRIMARY KEY(id, geography_id)
 );
 
@@ -89,6 +65,18 @@ CREATE TABLE IF NOT EXISTS fcc_mobile.dim_5g
     PRIMARY KEY(id, geography_id)
 );
 
+CREATE TABLE IF NOT EXISTS fcc_mobile.fact_geo
+(
+    id BIGSERIAL,
+    geography_id INT NOT NULL,
+    geography_type VARCHAR NOT NULL,
+    geography_desc VARCHAR NOT NULL,
+    total_area DECIMAL,
+    FOREIGN KEY (id, geography_id) REFERENCES fcc_mobile.dim_3g(id, geography_id),
+    FOREIGN KEY (id, geography_id) REFERENCES fcc_mobile.dim_4g(id, geography_id), 
+    FOREIGN KEY (id, geography_id) REFERENCES fcc_mobile.dim_5g(id, geography_id), 
+    PRIMARY KEY(id, geography_id)
+);
 
 CREATE TABLE IF NOT EXISTS provider.fact_provider_meta
 (
@@ -113,7 +101,7 @@ CREATE TABLE IF NOT EXISTS provider.dim_mobile_provider
     PRIMARY KEY(id, provider_id)
 );
 
-CREATE TABLE IF NOT EXISTS fcc_fixed.dim_fixed_provider
+CREATE TABLE IF NOT EXISTS provider.dim_fixed_provider
 (
     id BIGSERIAL NOT NULL,
     provider_id NUMERIC NOT NULL,
