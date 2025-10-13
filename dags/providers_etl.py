@@ -12,9 +12,9 @@ import datetime
     start_date=datetime.datetime(2025, 1, 1), 
     catchup=False,
     tags=['fcc'],
-    dag_id='mobile_speed_etl'
+    dag_id='provider_etl'
 )
-def fixed_etl():
+def provider_etl():
 
     @task()
     def extract() -> dict:
@@ -65,4 +65,4 @@ def fixed_etl():
     load(extracted_data)
     
 
-fixed_etl()
+provider_etl()
