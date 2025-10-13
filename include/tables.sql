@@ -96,7 +96,7 @@ CREATE TABLE IF NOT EXISTS fcc_provider.dim_mobile_provider
     area_invehicle INT,
     added TIMESTAMP DEFAULT NOW(),
     PRIMARY KEY(id, provider_id)
-);
+); 
 
 CREATE TABLE IF NOT EXISTS fcc_provider.dim_fixed_provider
 (
