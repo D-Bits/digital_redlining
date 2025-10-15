@@ -19,7 +19,10 @@ def mobile_etl():
     @task()
     def extract() -> dict:
        
-        df = pd.read_csv("data/fcc/bdc_us_mobile_broadband_summary_by_geography_D24_30sep2025.csv")
+        df = pd.read_csv(
+            "data/fcc/bdc_us_mobile_broadband_summary_by_geography_D24_30sep2025.csv",
+            low_memory=False
+        )
         # Cast the dataframe to a dictionary to share with other tasks in DAG
         df_dict = df.to_dict(orient='records')
 
