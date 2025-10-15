@@ -14,7 +14,7 @@ import datetime
     tags=['fcc'],
     dag_id='mobile_speed_etl'
 )
-def fixed_etl():
+def mobile_etl():
 
     @task()
     def extract() -> dict:
@@ -80,6 +80,7 @@ def fixed_etl():
             con=redlining_engine, 
             schema='fcc_mobile',
             if_exists='append', 
+            method='multi',
             index=False
         )
         dim_3g.to_sql(
@@ -87,20 +88,23 @@ def fixed_etl():
             con=redlining_engine, 
             schema='fcc_mobile',
             if_exists='append', 
+            method='multi',
             index=False
         )
         dim_4g.to_sql(
             'dim_4g', 
             con=redlining_engine, 
             schema='fcc_mobile',
-            if_exists='append', 
+            if_exists='append',
+            method='multi', 
             index=False
         )
         dim_5g.to_sql(
             'dim_5g', 
             con=redlining_engine, 
             schema='fcc_mobile',
-            if_exists='append', 
+            if_exists='append',
+            method='multi', 
             index=False
         )
 
@@ -115,4 +119,4 @@ def fixed_etl():
     load(transformed_data)
     
 
-fixed_etl()
+mobile_etl()

@@ -19,7 +19,7 @@ def fixed_etl():
     @task()
     def extract() -> dict:
        
-        df = pd.read_csv("data/fcc/bdc_us_fixed_broadband_summary_by_geography_12-24.csv")
+        df = pd.read_csv("data/fcc/bdc_us_fixed_broadband_summary_by_geography_D24_30sep2025.csv")
         # Cast the dataframe to a dictionary to share with other tasks in DAG
         df_dict = df.to_dict(orient='records')
 
@@ -76,21 +76,24 @@ def fixed_etl():
             'fact_geo', 
             con=redlining_engine, 
             schema='fcc_fixed',
-            if_exists='append', 
+            if_exists='append',
+            method='multi', 
             index=False
         )
         dim_speed.to_sql(
             'dim_speed', 
             con=redlining_engine, 
             schema='fcc_fixed',
-            if_exists='append', 
+            if_exists='append',
+            method='multi', 
             index=False
         )
         dim_tech.to_sql(
             'dim_tech', 
             con=redlining_engine, 
             schema='fcc_fixed',
-            if_exists='append', 
+            if_exists='append',
+            method='multi', 
             index=False
         )
 
