@@ -17,7 +17,7 @@ import datetime
 def fixed_etl():
 
     @task()
-    def extract() -> dict:
+    def extract():
        
         df = pd.read_csv(
             "data/fcc/bdc_us_fixed_broadband_summary_by_geography_D24_30sep2025.csv",
@@ -30,7 +30,7 @@ def fixed_etl():
 
 
     @task()
-    def transform(df_dict: dict) -> dict:
+    def transform(df_dict: dict):
 
         df = pd.DataFrame(df_dict)
 
