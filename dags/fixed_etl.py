@@ -97,9 +97,9 @@ def fixed_etl():
             index=False
         )
 
-        print(f"Data loaded into fact_geo with shape: {len(fact_geo)}")
-        print(f"Data loaded into dim_speed with shape: {len(dim_speed)}")    
-        print(f"Data loaded into dim_tech with shape: {len(dim_tech)}")    
+        print(f"Data loaded into fact_geo with: {len(fact_geo)} records")
+        print(f"Data loaded into dim_speed with: {len(dim_speed)} records")    
+        print(f"Data loaded into dim_tech with: {len(dim_tech)} records")    
 
 
     extracted_data = extract()

@@ -108,10 +108,10 @@ def mobile_etl():
             index=False
         )
 
-        print(f"Data loaded into fact_geo with shape: {len(fact_geo)}")
-        print(f"Data loaded into dim_3g with shape: {len(dim_3g)}")    
-        print(f"Data loaded into dim_4g with shape: {len(dim_4g)}")
-        print(f"Data loaded into dim_5g with shape: {len(dim_5g)}")    
+        print(f"Data loaded into fact_geo: {len(fact_geo)} records")
+        print(f"Data loaded into dim_3g: {len(dim_3g)} records")    
+        print(f"Data loaded into dim_4g: {len(dim_4g)} records")
+        print(f"Data loaded into dim_5g: {len(dim_5g)} records")    
 
 
     extracted_data = extract()
