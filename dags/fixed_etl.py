@@ -1,8 +1,8 @@
 """
 DAG to ingest data for fixed broadband.
 """
-from airflow.sdk import dag, task, DAG
-from config import redlining_engine
+from airflow.sdk import dag, task
+from config import redlining_engine, REDLINING_DB_CONN
 import pandas as pd
 import datetime
 
@@ -20,8 +20,9 @@ def fixed_etl():
     def extract():
        
         df = pd.read_csv(
-            "data/fcc/bdc_us_fixed_broadband_summary_by_geography_D24_30sep2025.csv",
-            low_memory=False
+            "dags/data/fixed_sample.csv",
+            low_memory=False,
+            on_bad_lines='skip'
         )
         # Cast the dataframe to a dictionary to share with other tasks in DAG
         df_dict = df.to_dict(orient='records')
@@ -38,8 +39,7 @@ def fixed_etl():
             "geography_id",
             "area_data_type", 
             "geography_type", 
-            "geography_desc", 
-            "total_area"
+            "geography_desc",
         ]]
         dim_speed = df[[
             "geography_id", 
@@ -75,17 +75,9 @@ def fixed_etl():
         dim_tech = pd.DataFrame.from_dict(df_dict["dim_tech"])
 
         # Write data to the db
-        fact_geo.to_sql(
-            'fact_geo', 
-            con=redlining_engine, 
-            schema='fcc_fixed',
-            if_exists='append',
-            method='multi', 
-            index=False
-        )
         dim_speed.to_sql(
             'dim_speed', 
-            con=redlining_engine, 
+            con=REDLINING_DB_CONN, 
             schema='fcc_fixed',
             if_exists='append',
             method='multi', 
@@ -93,7 +85,15 @@ def fixed_etl():
         )
         dim_tech.to_sql(
             'dim_tech', 
-            con=redlining_engine, 
+            con=REDLINING_DB_CONN, 
+            schema='fcc_fixed',
+            if_exists='append',
+            method='multi', 
+            index=False
+        )
+        fact_geo.to_sql(
+            'fact_geo', 
+            con=REDLINING_DB_CONN, 
             schema='fcc_fixed',
             if_exists='append',
             method='multi', 
