@@ -14,3 +14,7 @@ migrate:
 
 shell:
 	sudo docker exec -it digital-redlining_0cb618-dag-processor-1 /bin/bash
+
+kill:
+	sudo astro dev kill
+	
