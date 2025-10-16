@@ -32,7 +32,6 @@ CREATE TABLE IF NOT EXISTS fcc_fixed.fact_geo
     area_data_type VARCHAR,
     geography_type VARCHAR NOT NULL,
     geography_desc VARCHAR NOT NULL,
-    total_area VARCHAR,
     added TIMESTAMP DEFAULT NOW(),
     FOREIGN KEY (id, geography_id) REFERENCES fcc_fixed.dim_speed(id, geography_id),
     FOREIGN KEY (id, geography_id) REFERENCES fcc_fixed.dim_technology(id, geography_id), 
