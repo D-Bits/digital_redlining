@@ -12,7 +12,8 @@ import datetime
     start_date=datetime.datetime(2025, 1, 1), 
     catchup=False,
     tags=['fcc'],
-    dag_id='db_init'
+    dag_id='db_init',
+    template_searchpath=['/opt/airflow/include/']
 )
 def db_init():
 
