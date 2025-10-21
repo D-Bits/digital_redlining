@@ -1,4 +1,15 @@
 
+CREATE TABLE IF NOT EXISTS fcc_fixed.fact_geo
+(
+    id BIGSERIAL UNIQUE,
+    geography_id VARCHAR UNIQUE NOT NULL,
+    area_data_type VARCHAR,
+    geography_type VARCHAR NOT NULL,
+    geography_desc VARCHAR NOT NULL,
+    added TIMESTAMP DEFAULT NOW(),
+    PRIMARY KEY(id, geography_id)
+);
+
 CREATE TABLE IF NOT EXISTS fcc_fixed.dim_speed
 (
     id BIGSERIAL UNIQUE,
@@ -10,6 +21,7 @@ CREATE TABLE IF NOT EXISTS fcc_fixed.dim_speed
     speed_250_25 DECIMAL,
     speed_1000_100 DECIMAL,
     added TIMESTAMP DEFAULT NOW(),
+    CONSTRAINT fk_fact_geo_dim_speed FOREIGN KEY (geography_id) REFERENCES fcc_fixed.fact_geo(geography_id),
     PRIMARY KEY(id)
 );
 
@@ -22,20 +34,8 @@ CREATE TABLE IF NOT EXISTS fcc_fixed.dim_technology
     technology VARCHAR,
     total_units INT,
     added TIMESTAMP DEFAULT NOW(),
+    CONSTRAINT fk_fact_geo_dim_technology FOREIGN KEY (geography_id) REFERENCES fcc_fixed.fact_geo(geography_id),
     PRIMARY KEY(id)
-);
-
-CREATE TABLE IF NOT EXISTS fcc_fixed.fact_geo
-(
-    id BIGSERIAL UNIQUE,
-    geography_id VARCHAR UNIQUE NOT NULL,
-    area_data_type VARCHAR,
-    geography_type VARCHAR NOT NULL,
-    geography_desc VARCHAR NOT NULL,
-    added TIMESTAMP DEFAULT NOW(),
-    CONSTRAINT fk_fact_geo_dim_technology FOREIGN KEY (geography_id) REFERENCES fcc_fixed.dim_technology(geography_id),
-    CONSTRAINT fk_fact_geo_dim_speed FOREIGN KEY (geography_id) REFERENCES fcc_fixed.dim_speed(geography_id),
-    PRIMARY KEY(id, geography_id)
 );
 
 CREATE TABLE IF NOT EXISTS fcc_mobile.dim_3g

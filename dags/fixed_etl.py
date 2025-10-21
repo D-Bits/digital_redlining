@@ -12,7 +12,7 @@ import datetime
     start_date=datetime.datetime(2025, 1, 1), 
     catchup=False,
     tags=['fcc'],
-    dag_id='fixed_speed_etl'
+    dag_id='fixed_speed_etl',
 )
 def fixed_etl():
 
@@ -34,6 +34,12 @@ def fixed_etl():
     def transform(df_dict: dict):
 
         df = pd.DataFrame(df_dict)
+
+        # Remove duplicate rows within each dataframe first
+        # dim_speed = dim_speed.drop_duplicates(subset=['geography_id'])
+        # fact_geo = fact_geo.drop_duplicates(subset=['geography_id'])
+        # # dim_tech may have multiple tech records per geography, dedupe on geography_id + technology
+        # dim_tech = dim_tech.drop_duplicates(subset=['geography_id', 'technology'])
 
         fact_geo = df[[
             "geography_id",
@@ -74,31 +80,43 @@ def fixed_etl():
         dim_speed = pd.DataFrame.from_dict(df_dict["dim_speed"])
         dim_tech = pd.DataFrame.from_dict(df_dict["dim_tech"])
 
-        # Write data to the db
-        dim_speed.to_sql(
-            'dim_speed', 
-            con=REDLINING_DB_CONN, 
-            schema='fcc_fixed',
-            if_exists='append',
-            method='multi', 
-            index=False
-        )
-        dim_tech.to_sql(
-            'dim_tech', 
-            con=REDLINING_DB_CONN, 
-            schema='fcc_fixed',
-            if_exists='append',
-            method='multi', 
-            index=False
-        )
-        fact_geo.to_sql(
-            'fact_geo', 
-            con=REDLINING_DB_CONN, 
-            schema='fcc_fixed',
-            if_exists='append',
-            method='multi', 
-            index=False
-        )
+        # Remove duplicate rows within each dataframe first
+        dim_speed = dim_speed.drop_duplicates(subset=['geography_id'])
+        fact_geo = fact_geo.drop_duplicates(subset=['geography_id'])
+        # dim_tech may have multiple tech records per geography, dedupe on geography_id + technology
+        dim_tech = dim_tech.drop_duplicates(subset=['geography_id', 'technology'])
+
+        # Write only non-empty dataframes to avoid unnecessary DB operations
+        if not fact_geo.empty:
+            fact_geo.to_sql(
+                'fact_geo',
+                con=REDLINING_DB_CONN,
+                schema='fcc_fixed',
+                if_exists='append',
+                method='multi',
+                index=False
+            )
+
+        if not dim_speed.empty:
+            dim_speed.to_sql(
+                'dim_speed',
+                con=REDLINING_DB_CONN,
+                schema='fcc_fixed',
+                if_exists='append',
+                method='multi',
+                index=False
+            )
+
+        if not dim_tech.empty:
+            dim_tech.to_sql(
+                'dim_tech',
+                con=REDLINING_DB_CONN,
+                schema='fcc_fixed',
+                if_exists='append',
+                method='multi',
+                index=False
+            )
+        
 
         print(f"Data loaded into fact_geo with: {len(fact_geo)} records")
         print(f"Data loaded into dim_speed with: {len(dim_speed)} records")    
