@@ -20,9 +20,9 @@ def fixed_etl():
     def extract():
        
         df = pd.read_csv(
-            "dags/data/fixed_sample.csv",
+            "dags/data/fcc/clean/fcc_fixed_full_data.csv",
             low_memory=False,
-            on_bad_lines='skip'
+            # on_bad_lines='skip'
         )
         # Cast the dataframe to a dictionary to share with other tasks in DAG
         df_dict = df.to_dict(orient='records')
@@ -36,10 +36,10 @@ def fixed_etl():
         df = pd.DataFrame(df_dict)
 
         # Remove duplicate rows within each dataframe first
-        # dim_speed = dim_speed.drop_duplicates(subset=['geography_id'])
-        # fact_geo = fact_geo.drop_duplicates(subset=['geography_id'])
+        dim_speed = dim_speed.drop_duplicates(subset=['geography_id'])
+        fact_geo = fact_geo.drop_duplicates(subset=['geography_id'])
         # # dim_tech may have multiple tech records per geography, dedupe on geography_id + technology
-        # dim_tech = dim_tech.drop_duplicates(subset=['geography_id', 'technology'])
+        dim_tech = dim_tech.drop_duplicates(subset=['geography_id', 'technology'])
 
         fact_geo = df[[
             "geography_id",
@@ -80,11 +80,11 @@ def fixed_etl():
         dim_speed = pd.DataFrame.from_dict(df_dict["dim_speed"])
         dim_tech = pd.DataFrame.from_dict(df_dict["dim_tech"])
 
-        # Remove duplicate rows within each dataframe first
-        dim_speed = dim_speed.drop_duplicates(subset=['geography_id'])
-        fact_geo = fact_geo.drop_duplicates(subset=['geography_id'])
-        # dim_tech may have multiple tech records per geography, dedupe on geography_id + technology
-        dim_tech = dim_tech.drop_duplicates(subset=['geography_id', 'technology'])
+        # # Remove duplicate rows within each dataframe first
+        # dim_speed = dim_speed.drop_duplicates(subset=['geography_id'])
+        # fact_geo = fact_geo.drop_duplicates(subset=['geography_id'])
+        # # dim_tech may have multiple tech records per geography, dedupe on geography_id + technology
+        # dim_tech = dim_tech.drop_duplicates(subset=['geography_id', 'technology'])
 
         # Write only non-empty dataframes to avoid unnecessary DB operations
         if not fact_geo.empty:
